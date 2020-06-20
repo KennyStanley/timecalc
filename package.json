@@ -1,0 +1,19 @@
+{
+  "name": "timecalc",
+  "version": "1.0.0",
+  "description": "Calculator for Times",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KennyStanley/timecalc.git"
+  },
+  "author": "Kenny Stanley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KennyStanley/timecalc/issues"
+  },
+  "homepage": "https://github.com/KennyStanley/timecalc#readme"
+}
